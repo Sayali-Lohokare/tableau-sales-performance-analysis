@@ -49,12 +49,12 @@ Two Tableau Story presentations are included, walking through the analysis as a 
 
 ## Screenshots
 
-See the `screenshots/` folder for dashboard images, or view individual images below.
+Dashboard screenshots are shown below.
 
-![Product Analysis](screenshots/product-analysis.jpg)
-![Product Performance](screenshots/product-performance.jpg)
-![Sales Business Analysis Story](screenshots/sales-business-analysis-story.jpg)
-![Business Performance Analysis Story](screenshots/business-performance-analysis-story.jpg)
+![Product Analysis](product-analysis.jpeg)
+![Product Performance](product-performance.jpeg)
+![Sales Business Analysis Story](sales-business-analysis-story.jpeg)
+![Business Performance Analysis Story](business-performance-analysis-story.jpeg)
 
 ## Tools and techniques used
 
